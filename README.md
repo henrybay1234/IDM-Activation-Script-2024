@@ -1,3 +1,5 @@
+![Preview Image](download-idm-activation-script-tinologi.com_-1170x780.jpg)
+
 IDM freeze trial and activation with registry key lock method. Activation and trial persist even after installing IDM updates. IDM trial reset
 
 IDM-Activation-Script-2024
